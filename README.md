@@ -5,7 +5,7 @@ __Semestre 1-2026 · Profesor: Carlos Valle__
 ### __Integrantes: Nicolas Zarate, David Caceres, Milenka Zuvic.__
 
 
-## Parte 1 de la Tarea - Clasificación de Niveles de Obesidad
+# Parte 1 de la Tarea - Clasificación de Niveles de Obesidad
 
 ## Descripción
 
@@ -99,7 +99,7 @@ jupyter notebook Tarea_1_PARTE_1_FINAL.ipynb
 
 > **Nota:** Se recomienda ejecutar en Google Colab con GPU/TPU como acelerador para reducir tiempos de entrenamiento.
 
-## Parte 2: Desafío Kaggle. Clasificación de Géneros Músicales
+# Parte 2: Desafío Kaggle. Clasificación de Géneros Músicales
 
 Clasificación automática de audio en 8 géneros musicales mediante un ensemble de 6 modelos (FFNN×3 + LightGBM×3) sobre embeddings preentrenados extraídos de tres segmentos temporales independientes.
 
